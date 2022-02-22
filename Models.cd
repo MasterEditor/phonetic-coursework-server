@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coursework_Server.Models.ApplicationContext">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAACgCAAAAAAAEAAAAgAAIBAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Models\ApplicationContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.AuthOptions">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQRAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AuthOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.Consumption">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAAAAAAAAAAgAAAAAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Consumption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.ContextFactory">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ContextFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Coursework_Server.Models.News">
+    <Position X="2" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAgAAAAAAAAAAAIAAAAQAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\News.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.Operation">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAgAAAAAAAAAAAAgAAAAAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Operation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.Promotion">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Promotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.Service">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAQADAAAAQAAAwAQACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.Statistic">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAgAAAAAAA=</HashCode>
+      <FileName>Models\Statistic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.Tariff">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAQAAAQAQADAQAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Tariff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.User">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgCAAAAAAAAUEgAwAAACAAAAAACAAAAAAAACAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.UserService">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQADACACAQAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Models.UserTariff">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQADQAACAQAAAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserTariff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.DbContext" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="Coursework_Server.Models.TariffType">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQCAAAABA=</HashCode>
+      <FileName>Models\Tariff.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

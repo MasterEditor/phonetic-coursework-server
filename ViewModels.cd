@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coursework_Server.ViewModels.AddArticleRequestModel">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\AddArticleRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.AddServiceRequestModel">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAQADAAAAQAAAQAQACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\AddServiceRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.AddTariffRequestModel">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAQAAAQAQACAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\AddTariffRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.AddUserRequestModel">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAEgAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\AddUserRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.ChangePasswordRequestModel">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\ChangePasswordRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.ConfirmPasswordRecoveryRequestModel">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\ConfirmPasswordRecoveryRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.ConfirmRegistrationRequestModel">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\ConfirmRegistrationRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.GetAllServicesRequestModel">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetAllServicesRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.GetByIdRequestModel">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetByIdRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.GetByNameRequestModel">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetByNameRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.GetByTypeRequestModel">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetByTypeRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.GetNewsByIdRequestModel">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetNewsByIdRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.GetNewsRequestModel">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQAAAAAAIAAAAAAAAIAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetNewsRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.GetTariffsRequestModel">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\GetTariffsRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.RechargeBalanceRequestModel">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IECAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\RechargeBalanceRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Requests.SendFeedbackRequestModel">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\SendFeedbackRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.IsRegisteredRequestModel">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\IsRegisteredRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.LoginRequestModel">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\LoginRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.RecoverPasswordRequestModel">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\RecoverPasswordRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.RegisterRequestModel">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Requests\RegisterRequestModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.ErrorResponseModel">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Responses\ErrorResponseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.ViewModels.Responses.GetNewsResponseModel">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Responses\GetNewsResponseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coursework_Server.Controllers.ConsumptionsController">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAI=</HashCode>
+      <FileName>Controllers\ConsumptionsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.NewsController">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAEAAAAQAABAAAAABAAAAAAAAAACAAIAAAAAAAI=</HashCode>
+      <FileName>Controllers\NewsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.PaymentsController">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAI=</HashCode>
+      <FileName>Controllers\PaymentsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Mvc.Controller" Collapsed="true">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Coursework_Server.Controllers.PromotionsController">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Controllers\PromotionsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.ServicesController">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAEQAAAAAAAABAAAAAACAAACQgIAAAAAAAI=</HashCode>
+      <FileName>Controllers\ServicesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.StatisticsController">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Controllers\StatisticsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.StorageController">
+    <Position X="16.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACEAAAAAAAAAAQAAAAAABAAAAAAAACAAA=</HashCode>
+      <FileName>Controllers\StorageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.TariffsController">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAQAABAAAAABAAAAABAAAACAgIAAAAAAAI=</HashCode>
+      <FileName>Controllers\TariffsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coursework_Server.Controllers.UsersController">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAQgAAAAAAABACAAABBBBAAAiMQAAAAAAI=</HashCode>
+      <FileName>Controllers\UsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
